@@ -11,7 +11,7 @@ How to use:
 3. If it didn't install drivers, download drivers here https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip and install
  - to install drivers, click on CP210xVCPInstaller_x64.exe from the folder in step 3.
  
-4. Now, download zip with uECG windows app from this github (this one https://github.com/ultimaterobotics/uECG_nodejs/archive/refs/heads/main.zip)
+4. Now, download zip with uECG windows app from this github (this one https://github.com/ultimaterobotics/uecg_windows/raw/main/uecg_win10.zip)
 
 5. To launch app, click on green uecg_app exe file. Black terminal will open and show that it sees the COM port, etc. It means it sees the USB base.
 
