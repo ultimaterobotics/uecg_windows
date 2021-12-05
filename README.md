@@ -1,6 +1,6 @@
 # uecg_windows
-A compiled version of uECG Node JS app, tested on Windows 10 and 7.
-It's compiled using pkg and doesn't work without all the other files for some reason, so just download the whole folder for now.
+A compiled version of uECG Node JS app, tested on Windows 10 and 7. It should let you run the web app without installing NodeJS or python.
+It's compiled using pkg and theoretically there should be one file only. But for now, for some reason it doesn't work without all the other NodeJS files, so please download the whole zip and run the app from the folder.
 
 How to use:
 
