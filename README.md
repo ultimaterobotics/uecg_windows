@@ -4,7 +4,7 @@ It's compiled using pkg and doesn't work without all the other files for some re
 
 How to use:
 
-1 Insert black USB base into computer. It should have green and blue LEDs.
+1. Insert black USB base into computer. It should have green and blue LEDs on.
 
 2. After USB sound, the Windows should install drivers for CP2102 chip (it's the USB chip used on the base)
 
