@@ -13,8 +13,10 @@ How to use:
  
 4. Now, download zip with uECG windows app from this github (this one https://github.com/ultimaterobotics/uecg_windows/raw/main/uecg_win10.zip)
 
-5. To launch app, click on green **uecg_app exe file**. Black terminal will open and show that it sees the COM port, etc. It means it sees the USB base.
+5. To launch app, click on green **uecg_app.exe** file. Black terminal will open and show that it sees the COM port, etc. It means it sees the USB base. Do not close the terminal while you use uECG, it is running the app. Also, at this point it may show a window asking about Firewall, just allow it. 
 
 6. After that, in your browser, open this address http://127.0.0.1:8080 - you should see black/green uecg app.
 
 7. Now, you need to turn on the uECG device. After it blinks with pink LED, press button on uECG **two times quickly**. It should blink with green and you will see signal in Windows app! Also, the USB base will slowly pulse with red LED when uECG is in correct mode.
+
+8. To close the app, close the black terminal.
