@@ -9,7 +9,7 @@ How to use:
 2. After USB sound, the Windows should install drivers for CP2102 chip (it's the USB chip used on the base).
 
 3. If it didn't install drivers, download drivers here https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip and install them.
- - to install drivers, click on **CP210xVCPInstaller_x64.exe** from the folder in step 3.
+ - to install drivers, click on **CP210xVCPInstaller_x64.exe** from the zip you downloaded in step 3.
  
 4. Now, download zip with uECG windows app from this github (this one https://github.com/ultimaterobotics/uecg_windows/raw/main/uecg_win10.zip)
 
