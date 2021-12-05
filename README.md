@@ -3,6 +3,7 @@ A compiled version of uECG Node JS app, tested on Windows 10 and 7.
 It's compiled using pkg and doesn't work without all the other files for some reason, so just download the whole folder for now.
 
 How to use:
+
 1 Insert black USB base into computer. It should have green and blue LEDs.
 
 2. After USB sound, the Windows should install drivers for CP2102 chip (it's the USB chip used on the base)
