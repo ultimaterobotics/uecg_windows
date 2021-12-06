@@ -8,9 +8,11 @@ How to install and use with uECG (first time):
 
 2. After USB sound, the Windows should install drivers for CP2102 chip (it's the USB chip used on the base).
 
-*(optional step)
-*3. If it didn't install drivers, download drivers here https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip and install them.
- *- to install drivers, click on **CP210xVCPInstaller_x64.exe** from the zip you downloaded in step 3.
+*(optional step)*
+
+*3. If it didn't install drivers, download drivers here https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip and install them.*
+
+ *- to install drivers, click on **CP210xVCPInstaller_x64.exe** from the zip you downloaded in step 3.*
  
 4. Now, download zip with uECG windows app from this github (this one https://github.com/ultimaterobotics/uecg_windows/raw/main/uecg_win10.zip)
 
@@ -22,8 +24,9 @@ How to install and use with uECG (first time):
 
 8. To close the app, close the black terminal.
 
-*(optional step)
-*9. Also, you can make a shortcut on the Desktop for the uecg_app.exe - just click on it, select **Send to -> Desktop (create shortcut)** and it will appear on Desktop.
+*(optional step)*
+
+*9. Also, you can make a shortcut on the Desktop for the uecg_app.exe - just click on it, select **Send to -> Desktop (create shortcut)** and it will appear on Desktop.*
 
 
 How to use with uECG every time (after first time):
